@@ -1,5 +1,14 @@
 # Path tracing project
-Path tracing project made for College, improved for fun.
+C++ implementation made for College, improved for fun.
+
+Features:
+
+- Importance sampling
+- Post-processing (denoising, bloom)
+- Multicore execution
+- Acceleration structures
+- Signed distance fields rendering
+- Subsurface Scattering
 
 ## Code ##
 To be appearing...
