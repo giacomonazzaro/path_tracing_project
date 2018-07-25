@@ -11,7 +11,7 @@ Features:
 - Subsurface Scattering
 
 ## Code ##
-To be appearing...
+I became contributor of [Yocto/GL](https://github.com/xelatihy/yocto-gl/tree/development), moved the project there.
 
 ## Renderings ##
 My desk
